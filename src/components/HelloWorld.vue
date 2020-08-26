@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    NoDa Bodega
+    The NoDa Bodega
   </div>
 </template>
 
